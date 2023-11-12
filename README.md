@@ -1,3 +1,19 @@
+## Performance
+
+### Specification
+
+| Macbook Pro 2016 | HP |
+|---|---|
+|<img width="698" alt="Screen Shot 2023-11-11 at 15 47 47" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/dd911d69-985c-4d8b-a53d-75cf00453842">|N/A|
+
+### Benchmark
+
+| MacOS Monterey | Windows 11 |
+|---|---|
+|<img width="1552" alt="Screen Shot 2023-11-11 at 15 47 29" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/01890a3a-1512-4191-ac1a-45e35ba64d2d">|N/A|
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
