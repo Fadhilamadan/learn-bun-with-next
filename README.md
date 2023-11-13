@@ -2,9 +2,9 @@
 
 ### Specification
 
-| Macbook Pro 2016 | HP |
+| Macbook Pro 2016 | HP EliteBook 830 G7 Notebook PC |
 |---|---|
-|<img width="698" alt="Screen Shot 2023-11-11 at 15 47 47" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/dd911d69-985c-4d8b-a53d-75cf00453842">|N/A|
+|<img width="698" alt="Screen Shot 2023-11-11 at 15 47 47" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/7db39bae-3d90-472c-a462-62cab6068860">|<img width="698" alt="Screen Shot 2023-11-11 at 15 47 47" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/e41aaae6-ed12-4466-b804-c07a989b7f7c">|
 
 ### Benchmark
 
