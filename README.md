@@ -10,7 +10,7 @@
 
 | MacOS Monterey | Windows 11 |
 |---|---|
-|<img width="1552" alt="Screen Shot 2023-11-11 at 15 47 29" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/01890a3a-1512-4191-ac1a-45e35ba64d2d">|N/A|
+|<img width="1552" alt="Screen Shot 2023-11-11 at 15 47 29" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/01890a3a-1512-4191-ac1a-45e35ba64d2d">|<img width="1552" alt="Screen Shot 2023-11-11 at 15 47 29" src="https://github.com/Fadhilamadan/learn-bun-with-next/assets/19664424/334996ea-1337-4d96-98a1-aac4ae40e683">|
 
 ---
 
